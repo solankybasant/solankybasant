@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **As a Backend Developer**
 
-- 🌱 I’m currently learning **Merstack Development**
+- 🌱 I’m currently learning **Mernstack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/solankybasant/](https://github.com/solankybasant/)
 
