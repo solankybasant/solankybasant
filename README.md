@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Mernstack Development**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/solankybasant/)
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/solankybasant?tab=repositories)
 
 - 📄 Know about my experiences [Here](http://bit.ly/cv-basantsolanky)
 
